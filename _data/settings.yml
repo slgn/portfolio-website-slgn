@@ -1,9 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: salagean.us
-description: future msci cs+ai student | web designer+developer | uot+uon
-email: vlad@salagean.us
+title: Artists Theme
+description: Thinker // Designer // YouTuber
+email: devtipsfordesigners@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
 - {name: About Me, url: '#about-me'}
@@ -11,28 +13,49 @@ menu:
 - {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Provide a description for your website to make it visible to search engines.'
+  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
 # About Section
 
+# NOTE: The avatar is defined in the all.sass document.
+
 blurb: >
-  **Hi there!** I'm a content creator.
-  I do anything from graphic design to short movies production. I am a future MSci Computer Science with
-  Artificial Intelligence student, I am based in both Romania and the United Kingdom, and I have more than
-  6 years experience. My goal is to create products and services that delight consumers and rive innovation
-  across organizations. I am fascinated by the inherent complexities in the intersection of people and
-  environments - how we live, work, and make accommodations everyday.
-  **I am currently on a hiatus.**
+  **Travis specializes in making things** for human people.
+  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
+  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
+  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
 
 
 skills:
-- {name: Communication, value: '8'}
-- {name: Organization, value: '8'}
+- {name: Communication, value: '9'}
+- {name: Organization, value: '7'}
 - {name: Learning, value: '10'}
-- {name: Teaching, value: '5'}
-- {name: Planning, value: '8'}
-- {name: Visual Design, value: '7'}
+- {name: Teaching, value: '6'}
+- {name: Planning, value: '7'}
+- {name: Visual Design, value: '5'}
 - {name: UX Design, value: '8'}
-- {name: Programming, value: '9'}
+- {name: Programming, value: '6'}
 
+#-------------------------------
 # Work Section
 
 projects:
@@ -45,13 +68,17 @@ projects:
 - {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
 
+
+
+
+#-------------------------------
 # Clients Section
 
 clients:
 - {avatar: 'face-aaroni.jpg',
   name: 'Scott Summers',
   title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team â€” and really worked hard to understand our products from the point of view of the customer â€” we also all agree he should shower more often.</p>',
   logo: 'logo1.png'}
 - {avatar: 'face-atariboy.jpg',
   name: 'Hank McCoy',
@@ -69,10 +96,16 @@ clients:
   quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
   logo: 'logo4.png'}
 
+
+#-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'http://twitter.com/therebelliovs'}
-- {icon: 'behance', link: 'https://www.behance.net/vloctav'}
-- {icon: 'instagram', link: 'https://www.instagram.com/slgnv'}
-- {icon: 'github', link: 'http://www.github.com/vloctav'}
+- {icon: 'twitter', link: 'http://twitter.com/devtipsshow'}
+- {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
+- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
+- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
