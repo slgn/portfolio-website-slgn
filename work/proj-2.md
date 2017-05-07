@@ -1,5 +1,5 @@
 ---
-title: City In Website Concept
+title: WELLKROW
 ---
 
-![City In]({{ site.github.url }}/assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+![WELLKROW]({{ site.github.url }}/assets/img/work/proj-2/WELLKROW.jpg)

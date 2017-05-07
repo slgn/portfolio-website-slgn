@@ -1,5 +1,5 @@
 ---
-title: Fresh It Up
+title: Rebelliovs
 ---
 
-![Fresh It Up]({{ site.github.url }}/assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+![Rebelliovs]({{ site.github.url }}/assets/img/work/proj-5/site.jpg)

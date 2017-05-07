@@ -1,4 +1,4 @@
-#-------------------------------
+﻿#-------------------------------
 # General Site Settings
 
 title: salagean.us
@@ -36,37 +36,37 @@ skills:
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Daffy Plays, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: WELLKROW, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: EZin1080p, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: SLGN Aspirations, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Rebelliovs, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: TheReigner, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Events, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Sketches and manipulations, folder: 'proj-8', file: 'work/proj-8.html'}
 
 # Clients Section
 
 clients:
-- {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+- {avatar: 'face-1.jpg',
+  name: 'EZin1080p',
+  title: 'Content creator - YouTube',
+  quote: '<p><strong>While I felt that Travis was a great</strong> designer — and really worked hard to understand the final product from my point of view — I also agree he should stress less.</p>',
   logo: 'logo1.png'}
-- {avatar: 'face-atariboy.jpg',
-  name: 'Hank McCoy',
-  title: 'Eater of Salad, Antartica Int.',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+- {avatar: 'face-2.jpg',
+  name: 'WELLKROW',
+  title: 'Music producer',
+  quote: '<p><strong>Working with Vlad was one of the best decisions I've made.</strong> He really knows how to do his job and he does it with style.</p>',
   logo: 'logo2.png'}
-- {avatar: 'face-jackiesaik.jpg',
-  name: 'Stacy Lang',
-  title: 'Social Media Girl, Quebec Int.',
-  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+- {avatar: 'face-3.jpg',
+  name: 'CCCajs',
+  title: 'Former professional gamer',
+  quote: '<p><strong>Yea, I guess he's good at computers or something,</strong> but he also knows how to work with people.</p>',
   logo: 'logo3.png'}
-- {avatar: 'face-teleject.jpg',
-  name: 'Cleatus Cassidy',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
+- {avatar: 'face-4.jpg',
+  name: 'James DeLouis',
+  title: 'YES4Gaming.com / TheReigner.com',
+  quote: '<p><strong>Back when YES4GAMING</strong> was still up and running he helped me with the design and with the marketing and because of that I've chosen to work with him again when I launched TheReigner</p>',
   logo: 'logo4.png'}
 
 # Contact Section

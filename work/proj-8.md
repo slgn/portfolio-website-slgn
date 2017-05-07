@@ -1,5 +1,5 @@
 ---
-title: "Stripes & Co"
+title: "Sketches and manipulations"
 ---
 
-![Stripes & Co]({{ site.github.url }}/assets/img/work/proj-8/stripes-co-NickZoutendijk.jpg)
+![Sketches and manipulations]({{ site.github.url }}/assets/img/work/proj-8/papa.jpg)

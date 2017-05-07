@@ -1,5 +1,5 @@
 ---
-title: Timeline Page
+title: TheReigner
 ---
 
-![Timeline Page]({{ site.github.url }}/assets/img/work/proj-6/TimeLinePage-SergeyValiukh.jpg)
+![TheReigner]({{ site.github.url }}/assets/img/work/proj-6/1.jpg)

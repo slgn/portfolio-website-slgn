@@ -1,5 +1,5 @@
 ---
-title: Crispy Icons
+title: EZin1080p
 ---
 
-![Crispy Icons]({{ site.github.url }}/assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
+![EZin1080p]({{ site.github.url }}/assets/img/work/proj-3/EZ.jpg)

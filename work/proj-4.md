@@ -1,5 +1,5 @@
 ---
-title: Flat Mobile UI/UX Concept
+title: SLGN Aspirations
 ---
 
-![Flat Mobile UI/UX Concept]({{ site.github.url }}/assets/img/work/proj-4/flatmobile-AyoubElred.jpg)
+![SLGN Aspirations]({{ site.github.url }}/assets/img/work/proj-4/slgn.jpg)
