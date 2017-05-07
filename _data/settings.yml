@@ -66,9 +66,7 @@ clients:
   title: 'TheReigner.com / YES4GAMING.com',
   quote: '<p><strong>Back when YES4GAMING</strong> was still up and running he helped me with the design and with the marketing and because of that I've chosen to work with him again when I launched TheReigner.</p>',
   logo: 'logo4.png'}
-
 # Contact Section
-
 social:
 - {icon: 'twitter', link: 'http://twitter.com/therebelliovs'}
 - {icon: 'behance', link: 'https://www.behance.net/vloctav'}
