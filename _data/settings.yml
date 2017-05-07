@@ -1,66 +1,114 @@
-title: salagean.us
-description: short movies producer | web designer+developer | uot+uon
+--- 
+blurb: "**Hi there!** I'm a content creator.I do anything from graphic design to short movies production. I am a future MSci Computer Science with Artificial Intelligence student, I am based in both Romania and the United Kingdom, and I have more than 6 years experience. My goal is to create products and services that delight consumers and rive innovation across organizations. I am fascinated by the inherent complexities in the intersection of people and environments - how we live, work, and make accommodations everyday. **I am currently on a hiatus.**\n"
+clients: 
+  - 
+    avatar: face-1.jpg
+    logo: logo1.png
+    name: EZin1080p
+    quote: "<p><strong>While I felt that Vlad was a great</strong> designer — and really worked hard to understand the final product from my point of view — I also agree he should stress less.</p>"
+    title: "Content creator on YouTube"
+  - 
+    avatar: face-2.jpg
+    logo: logo2.png
+    name: WELLKROW
+    quote: "<p><strong>Working with Vlad was one of the best decisions I've made.</strong> He really knows how to do his job and he does it with style.</p>"
+    title: "Music producer / DJ"
+  - 
+    avatar: face-3.jpg
+    logo: logo3.png
+    name: CCCajs
+    quote: "<p><strong>Yea, I guess hes good at computers or something,</strong> but he also knows how to work with people.</p>"
+    title: "Former professional gamer"
+  - 
+    avatar: face-4.jpg
+    logo: logo4.png
+    name: "James DeLouis"
+    quote: "<p><strong>Back when YES4GAMING</strong> was still up and running he helped me with the design and with the marketing and because of that I've chosen to work with him again when I launched TheReigner.</p>"
+    title: "TheReigner.com / YES4GAMING.com"
+description: "short movies producer | web designer+developer | uot+uon"
 email: vlad@salagean.us
-
-menu:
-- {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
-- {name: Contact, url: '#contact'}
-
-blurb: >
-  **Hi there!** I'm a content creator.
-  I do anything from graphic design to short movies production. I am a future MSci Computer Science with
-  Artificial Intelligence student, I am based in both Romania and the United Kingdom, and I have more than
-  6 years experience. My goal is to create products and services that delight consumers and rive innovation
-  across organizations. I am fascinated by the inherent complexities in the intersection of people and
-  environments - how we live, work, and make accommodations everyday.
-  **I am currently on a hiatus.**
-  
-skills:
-- {name: Communication, value: '8'}
-- {name: Organization, value: '8'}
-- {name: Learning, value: '10'}
-- {name: Teaching, value: '5'}
-- {name: Planning, value: '8'}
-- {name: Visual Design, value: '7'}
-- {name: UX Design, value: '8'}
-- {name: Programming, value: '9'}
-
-projects:
-- {name: Daffy Plays, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: WELLKROW, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: EZin1080p, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: SLGN Aspirations, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Rebelliovs, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: TheReigner, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Events, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Sketches and manipulations, folder: 'proj-8', file: 'work/proj-8.html'}
-
-clients:
-- {avatar: 'face-1.jpg',
-  name: 'EZin1080p',
-  title: 'Content creator on YouTube',
-  quote: '<p><strong>While I felt that Vlad was a great</strong> designer — and really worked hard to understand the final product from my point of view — I also agree he should stress less.</p>',
-  logo: 'logo1.png'}
-- {avatar: 'face-well.jpg',
-  name: 'Andrei Bloj',
-  title: 'Music producer / DJ',
-  quote: '<p><strong>Working with Vlad was one of the best decisions I've made.</strong> He really knows how to do his job and he does it with style.</p>',
-  logo: 'logo2.png'}
-- {avatar: 'face-3.jpg',
-  name: 'CCCajs',
-  title: 'Fromer professional gamer',
-  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but he also knows how to work with people.</p>',
-  logo: 'logo3.png'}
-- {avatar: 'face-4.jpg',
-  name: 'James DeLouis',
-  title: 'TheReigner.com / YES4GAMING.com',
-  quote: '<p><strong>Back when YES4GAMING</strong> was still up and running he helped me with the design and with the marketing and because of that I've chosen to work with him again when I launched TheReigner.</p>',
-  logo: 'logo4.png'}
-
-social:
-- {icon: 'twitter', link: 'http://twitter.com/therebelliovs'}
-- {icon: 'behance', link: 'https://www.behance.net/vloctav'}
-- {icon: 'instagram', link: 'https://www.instagram.com/slgnv'}
-- {icon: 'github', link: 'http://www.github.com/vloctav'}
+menu: 
+  - 
+    name: "About Me"
+    url: "#about-me"
+  - 
+    name: Work
+    url: "#work"
+  - 
+    name: Clients
+    url: "#clients"
+  - 
+    name: Contact
+    url: "#contact"
+projects: 
+  - 
+    file: work/proj-1.html
+    folder: proj-1
+    name: "Daffy Plays"
+  - 
+    file: work/proj-2.html
+    folder: proj-2
+    name: WELLKROW
+  - 
+    file: work/proj-3.html
+    folder: proj-3
+    name: EZin1080p
+  - 
+    file: work/proj-4.html
+    folder: proj-4
+    name: "SLGN Aspirations"
+  - 
+    file: work/proj-5.html
+    folder: proj-5
+    name: Rebelliovs
+  - 
+    file: work/proj-6.html
+    folder: proj-6
+    name: TheReigner
+  - 
+    file: work/proj-7.html
+    folder: proj-7
+    name: Events
+  - 
+    file: work/proj-8.html
+    folder: proj-8
+    name: "Sketches and manipulations"
+skills: 
+  - 
+    name: Communication
+    value: "8"
+  - 
+    name: Organization
+    value: "8"
+  - 
+    name: Learning
+    value: "10"
+  - 
+    name: Teaching
+    value: "5"
+  - 
+    name: Planning
+    value: "8"
+  - 
+    name: "Visual Design"
+    value: "7"
+  - 
+    name: "UX Design"
+    value: "8"
+  - 
+    name: Programming
+    value: "9"
+social: 
+  - 
+    icon: twitter
+    link: "http://twitter.com/therebelliovs"
+  - 
+    icon: instagram
+    link: "https://instagram.com/slgnv"
+  - 
+    icon: behance
+    link: "https://www.behance.net/vloctav"
+  - 
+    icon: github
+    link: "http://www.github.com/vloctav"
+title: SALAGEAN.US
