@@ -43,8 +43,8 @@ clients:
   title: 'Content creator on YouTube',
   quote: '<p><strong>While I felt that Vlad was a great</strong> designer — and really worked hard to understand the final product from my point of view — I also agree he should stress less.</p>',
   logo: 'logo1.png'}
-- {avatar: 'face-2.jpg',
-  name: 'Wellkrow',
+- {avatar: 'face-well.jpg',
+  name: 'Andrei Bloj',
   title: 'Music producer / DJ',
   quote: '<p><strong>Working with Vlad was one of the best decisions I've made.</strong> He really knows how to do his job and he does it with style.</p>',
   logo: 'logo2.png'}
