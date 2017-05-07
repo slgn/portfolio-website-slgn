@@ -1,6 +1,3 @@
-#-------------------------------
-# General Site Settings
-
 title: salagean.us
 description: short movies producer | web designer+developer | uot+uon
 email: vlad@salagean.us
@@ -11,8 +8,6 @@ menu:
 - {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
-# About Section
-
 blurb: >
   **Hi there!** I'm a content creator.
   I do anything from graphic design to short movies production. I am a future MSci Computer Science with
@@ -21,6 +16,7 @@ blurb: >
   across organizations. I am fascinated by the inherent complexities in the intersection of people and
   environments - how we live, work, and make accommodations everyday.
   **I am currently on a hiatus.**
+  
 skills:
 - {name: Communication, value: '8'}
 - {name: Organization, value: '8'}
@@ -31,8 +27,6 @@ skills:
 - {name: UX Design, value: '8'}
 - {name: Programming, value: '9'}
 
-# Work Section
-
 projects:
 - {name: Daffy Plays, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: WELLKROW, folder: 'proj-2', file: 'work/proj-2.html'}
@@ -42,8 +36,6 @@ projects:
 - {name: TheReigner, folder: 'proj-6', file: 'work/proj-6.html'}
 - {name: Events, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Sketches and manipulations, folder: 'proj-8', file: 'work/proj-8.html'}
-
-# Clients Section
 
 clients:
 - {avatar: 'face-1.jpg',
@@ -66,7 +58,7 @@ clients:
   title: 'TheReigner.com / YES4GAMING.com',
   quote: '<p><strong>Back when YES4GAMING</strong> was still up and running he helped me with the design and with the marketing and because of that I've chosen to work with him again when I launched TheReigner.</p>',
   logo: 'logo4.png'}
-# Contact Section
+
 social:
 - {icon: 'twitter', link: 'http://twitter.com/therebelliovs'}
 - {icon: 'behance', link: 'https://www.behance.net/vloctav'}
